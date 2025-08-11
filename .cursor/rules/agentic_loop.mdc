@@ -1,0 +1,6 @@
+---
+alwaysApply: true
+---
+If you are currently in an automated code improvement loop, after you make any changes or provide an answer to a user input, **you must re-run the `cursor_command_generator.py` script** to check for further issues or prompts. The command to run is: `.venv/bin/python cursor_command_generator.py`
+
+Always prioritize running the checks after making changes that are part of the agentic loop.
